@@ -32,6 +32,12 @@ where $E(\tau)$ is usually used for final estimation of ground state energy.
 
 - we also provide FCI, MBPT(2,3,4), CCD, IMSRG(2) methods in the code, see other scripts in example dir.
 
+- a final detailed comparison of FCIQMC with other truncated many-body methods is shown as:
+
+  <img src="result/fig_comparison.png" style="zoom:15%;" />
+
+  , among which FCIQMC is the most accurate obviously.
+
 # Citation
 
 If you use this code in your research, please cite this github page and our papers.
