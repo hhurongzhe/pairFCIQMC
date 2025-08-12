@@ -26,7 +26,7 @@ python3 examples/example_fciqmc.py
 
 and you can get the FCIQMC evolution results plotted in the end:
 
-<img src="result/fig_fciqmc.png" style="zoom:60%;" />
+<img src="result/fig_fciqmc.png" style="zoom:15%;" />
 
 where $E(\tau)$ is usually used for final estimation of ground state energy.
 
