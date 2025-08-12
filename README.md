@@ -2,9 +2,9 @@
 
 This is a FCIQMC algorithm for pairing model (written in python).
 
-FCIQMC is (one of) the most accurate _ab initio_ man-body method in quantum chemistry and many other areas. However, in nuclear physics, this method is not explored yet.
+FCIQMC is (one of) the most accurate _ab initio_ man-body method in quantum chemistry and many other areas.
 
-This accurate method have the full potential to become the most accurate _ab initio_ man-body method in nuclear physics.
+This accurate method have the full potential to become the most accurate _ab initio_ man-body method in nuclear physics, which is the main purpose of our present work.
 
 # Requirements
 
@@ -26,7 +26,7 @@ python3 examples/example_fciqmc.py
 
 and you can get the FCIQMC evolution results plotted in the end:
 
-![](result/fig_fciqmc.png)
+<img src="result/fig_fciqmc.png" style="zoom:60%;" />
 
 where $E(\tau)$ is usually used for final estimation of ground state energy.
 
