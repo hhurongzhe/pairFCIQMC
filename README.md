@@ -6,14 +6,24 @@ FCIQMC is (one of) the most accurate _ab initio_ man-body method in quantum chem
 
 This accurate method have the full potential to become the most accurate _ab initio_ man-body method in nuclear physics, which is the main purpose of our present work.
 
+# Data
+
+The data used in the paper is collected in "data" dir:
+
+- data_pairing.txt: Richardson pairing model results
+- data_comparison.txt: Nuclear matter benchmarking results
+- data_eos_emn.txt: Eos of PNM and SNM using N2LO-EMN interaction
+- data_eos_go.txt: Eos of PNM and SNM using N2LO-Delta-go interaction
+
 # Requirements
 
-The program are runned with python3.8+ and the following packages:
+The python program for the pairing model are runned with python3.8+ and the following packages:
 
 - numpy>=2.3.0
 - scipy>=1.15.3
 - matplotlib>=3.10.3
-- pandas>=2.3.0
+
+where scipy and matplotlib are not necessary in principle.
 
 # Examples
 
@@ -34,7 +44,7 @@ where $E(\tau)$ is usually used for final estimation of ground state energy.
 
 - a final detailed comparison of FCIQMC with other truncated many-body methods is shown as:
 
-  <img src="result/fig_comparison.png" style="zoom:15%;" />
+  <img src="result/fig_pairing.png" style="zoom:15%;" />
 
   , among which FCIQMC is the most accurate obviously.
 
