@@ -4,7 +4,7 @@ This is a FCIQMC algorithm for pairing model (written in python).
 
 FCIQMC is (one of) the most accurate _ab initio_ man-body method in quantum chemistry and many other areas.
 
-This accurate method have the full potential to become the most accurate _ab initio_ man-body method in nuclear physics, which is the main purpose of our present work.
+This method have the full potential to become the most accurate _ab initio_ man-body method in nuclear physics, which is the main purpose of our present work.
 
 # Data
 
