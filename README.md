@@ -1,4 +1,4 @@
-# pyFCIQMC
+# pairFCIQMC
 
 This is a FCIQMC algorithm for pairing model (written in python).
 
