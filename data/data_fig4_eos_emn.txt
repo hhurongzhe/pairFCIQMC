@@ -1,4 +1,4 @@
-# Delta-less N2LO-EMN(450) with Heuther's 3NF;
+# Delta-less N2LO-EMN(450) with Huether's 3NF;
 # A=66(76) for PNM(SNM), PBC;
 # rho         matter        HF            MBPT2         MBPT3         CCD           ADC3-D        IMSRG2        FCIQMC        FCIQMC_err    
 0.0200        PNM           5.0175        4.3758        4.4066        4.4227        4.3204        4.2095        4.3679        0.0012        
