@@ -4,7 +4,7 @@ This is a FCIQMC algorithm for pairing model (written in python).
 
 FCIQMC is (one of) the most accurate _ab initio_ many-body method in quantum chemistry and many other areas.
 
-This method have the full potential to become the most accurate _ab initio_ many-body method in nuclear physics, which is the main purpose of our present work [https://arxiv.org/abs/2508.09252](https://arxiv.org/abs/2508.09252).
+This method have the full potential to become the most accurate _ab initio_ many-body method in nuclear physics, which is the main purpose of our present work [https://doi.org/10.1103/q4p2-r1bt].
 
 # Data
 
@@ -50,7 +50,7 @@ where $E(\tau)$ is usually used for final estimation of ground state energy.
 
 # Citation
 
-If you use this code in your research, please cite this github page and our paper: [https://arxiv.org/abs/2508.09252](https://arxiv.org/abs/2508.09252).
+If you use this code in your research, please cite this github page and our paper: [https://doi.org/10.1103/q4p2-r1bt].
 
 # Acknowledgement
 
